@@ -2,9 +2,9 @@
 
 INTEGRANTES DEL GRUPO 
 
-Jose Pilaguano
+José Pilaguano
 
-Sahid Carrion
+Sahid Carrión
 
 Henry Macías
 
