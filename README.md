@@ -24,7 +24,7 @@ Objetivos:
 
 2.- Marco Teórico
 
-![image](https://user-images.githubusercontent.com/116677175/202754881-18b5b297-a2aa-4268-b746-069dddf965a3.png)
+![WhatsApp Image 2022-11-18 at 12 09 03](https://user-images.githubusercontent.com/116677175/202762158-4e71c3ca-2e1a-4590-a023-dae5794ecd40.jpeg)
 
 3.- Diagramas
 
