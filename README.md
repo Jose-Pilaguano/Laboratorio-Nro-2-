@@ -114,5 +114,5 @@ Concluimos que, al utilizar el método de circuitos de malla, estas se pueden su
 
 9.- Bibliografía
 
-Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
+Floyd, T.L (2007). Principios de Circuitos Electrónicos. México: Pearson educación.
 
